@@ -11,6 +11,7 @@ This is a repository for all kinds of Linux graphics that can be used as in prin
 
 ### Powered by Linux
 
+- Font used: [Ubuntu](https://design.ubuntu.com/font/)
 <img src="https://github.com/aha999/LinuxStickers/blob/main/Powered%20by%20Linux/Tux_sticker_inkscape.png" alt="powered by Linux" height="150">
 
 ### Tux keyboard sticker
