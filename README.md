@@ -36,6 +36,7 @@ Here will be listed, all other sources of Linux stickers
 ### Graphics
 
 - Tux https://en.wikipedia.org/wiki/Tux_(mascot)
+- Computing mascots https://en.wikipedia.org/wiki/List_of_computing_mascots
 
 ### Fonts
 
