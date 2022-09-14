@@ -23,3 +23,26 @@ This is a repository for all kinds of Linux graphics that can be used as in prin
 ### Lugos (Linux User Group Of Slovenia)
 
 <img src="https://github.com/aha999/LinuxStickers/blob/main/Lugos/lugos_sticker.png" alt="powered by Linux" height="150">
+
+## Other sources
+
+Here will be listed, all other sources of Linux stickers
+
+### Stickers
+
+- Various Linux Distro Stickers https://www.gnome-look.org/p/1102289/ | https://store.kde.org/p/1102289
+- Stickers 7 https://store.kde.org/p/1102410/
+
+### Graphics
+
+- Tux https://en.wikipedia.org/wiki/Tux_(mascot)
+
+### Fonts
+
+- Ubuntu https://design.ubuntu.com/font/
+
+## Guides
+
+Guides for making different designs possible
+
+- A can of soup with gradients http://tavmjong.free.fr/INKSCAPE/MANUAL/html/SoupCan.html
