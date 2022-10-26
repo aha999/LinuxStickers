@@ -1,5 +1,5 @@
 # Linux Stickers
-This is a repository for all kinds of Linux graphics that can be used as in printing stickers.
+This is a repository for all kinds of Linux and Open Source related graphics that can be used as in printing stickers.
 
 - If the software, used in creating the graphic is free & open source [Inkscape](https://inkscape.org/), the file should be in Inkscape SVG format and having such suffix in name.
 
