@@ -18,6 +18,8 @@ This is a repository for all kinds of Linux graphics that can be used as in prin
 
 <img src="https://github.com/aha999/LinuxStickers/blob/main/Tux%20Keyboard/Tux_keyboard_sticker_Inkscape.png" alt="powered by Linux" height="150">
 
+- This sticker is meant to be placed in place of the Super/Meta key on the keyboard.
+
 ## Specific use case
 
 ### Lugos (Linux User Group Of Slovenia)
