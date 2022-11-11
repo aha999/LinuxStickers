@@ -11,20 +11,25 @@ This is a repository for all kinds of Linux and Open Source related graphics tha
 
 ### Powered by Linux
 
-- Font used: [Ubuntu](https://design.ubuntu.com/font/)
 <img src="https://github.com/aha999/LinuxStickers/blob/main/Powered%20by%20Linux/Tux_sticker_inkscape.png" alt="powered by Linux" height="150">
 
+- Font used: [Ubuntu](https://design.ubuntu.com/font/)
+- Dimensions: 22,5 x 16 mm
+ 
 ### Tux keyboard sticker
 
 <img src="https://github.com/aha999/LinuxStickers/blob/main/Tux%20Keyboard/Tux_keyboard_sticker_Inkscape.png" alt="powered by Linux" height="150">
 
-- This sticker is meant to be placed in place of the Super/Meta key on the keyboard.
+- Intended to be placed on top of the Super/Meta key on the keyboard.
+- Dimensions: 12 x 12 mm (fits on most keyboard keys)
 
 ## Specific use case
 
 ### Lugos (Linux User Group Of Slovenia)
 
 <img src="https://github.com/aha999/LinuxStickers/blob/main/Lugos/lugos_sticker.png" alt="powered by Linux" height="150">
+
+- Dimensions: 18 x 18 mm
 
 ## Other sources
 
