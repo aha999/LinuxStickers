@@ -14,7 +14,7 @@ This is a repository for all kinds of Linux and Open Source related graphics tha
 <img src="https://github.com/aha999/LinuxStickers/blob/main/Powered%20by%20Linux/Tux_sticker_inkscape.png" alt="powered by Linux" height="150">
 
 - Font used: [Ubuntu](https://design.ubuntu.com/font/)
-- Dimensions: 22,5 x 16 mm
+- Dimensions: 22,5 x 16 mm, conveniently sized, so it fits over the Win OS sticker placeholders
  
 ### Tux keyboard sticker
 
